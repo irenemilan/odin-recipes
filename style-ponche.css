@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(250, 226, 230);
+    text-align: center;
+}
+
+#ponche-ingredients {
+    width: 200px;
+    height: auto;
+    vertical-align: top;
+}
+
+#ingredient-list {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ingredients, p, ol {
+    text-align: left;
+    display: inline-block;
+}
