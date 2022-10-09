@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: rgb(250, 211, 218);
+}
+
+#logo {
+    height: 180px;
+    width: auto;
+}
+
+#header {
+    margin: 10px 0px;
+}
+
+.description, a {
+    font-size: 24px;
+}
+
+p {
+    margin: 10px 200px;
+    text-align: left;
+    display: inline-block;
+}
+
+#dessert {
+    height: 200px;
+    width: auto;
+}
+
+#atole {
+    width: 400px;
+    height: auto;
+    display: block;
+}
+
+#ponche {
+    height: 300px;
+    width: auto;
+    display: block;
+}
+
+a {
+    display: inline-block;
+}
