@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(250, 226, 230);
+    text-align: center;
+    font-size: 18px;
+}
+
+#atole{
+    width: 400px;
+    height: auto;
+}
+
+#arroz-img {
+    width: auto;
+    height: 180px;
+    vertical-align: top;
+    border: solid 1px;
+}
+
+#arroz-ingredientes {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ingredientes, p, ol {
+    text-align: left;
+    display: inline-block;
+    margin: 10px 450px;
+}
+
+ol {
+    display: block;
+}
