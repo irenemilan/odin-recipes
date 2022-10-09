@@ -1,6 +1,7 @@
 body {
     background-color: rgb(250, 226, 230);
     text-align: center;
+    font-size: 18px;
 }
 
 #ponche-ingredients {
@@ -17,4 +18,13 @@ body {
 .ingredients, p, ol {
     text-align: left;
     display: inline-block;
+}
+
+p, ol {
+    margin: 10px 450px;
+}
+
+#source {
+    display: block;
+    text-align: center;
 }
